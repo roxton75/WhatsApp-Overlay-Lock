@@ -195,7 +195,7 @@ class LockUI(ctk.CTkFrame):
                 with open(PASSWORD_FILE, "r") as f:
                     saved_password = f.read().strip()
             except:
-                saved_password = "raju"  # fallback if file missing
+                saved_password = "1234"  # fallback if file missing
                 print("Warning: password.txt not found, using fallback password.")
 
             entered = self.password_var.get().strip()
@@ -226,3 +226,4 @@ class LockUI(ctk.CTkFrame):
             except Exception:
                 pass
             self.on_unlock()   # close overlay
+
