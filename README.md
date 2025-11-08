@@ -18,6 +18,7 @@ Protects your chats whenever WhatsApp is opened in the foreground.
 ---
 
 ## 🖥️ Preview
+Demo: [Live Preview](https://www.linkedin.com/posts/rudrx75_just-finished-building-a-small-utility-for-activity-7393051089551650816-fVce)
 <img width="1215" height="706" alt="image" src="https://github.com/user-attachments/assets/b4d109a7-d949-4ffc-be58-fcf45d3e079b" />
 
 ---
