@@ -1,4 +1,4 @@
-# 🔐 WhatsApp Desktop Lock
+# 🔐 WhatsApp Desktop Lock (Works On Prev. Versions only)
 
 A clean and seamless **overlay lock screen** for WhatsApp Desktop, built using **Python + CustomTkinter**.  
 Protects your chats whenever WhatsApp is opened in the foreground.
